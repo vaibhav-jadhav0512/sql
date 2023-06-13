@@ -1,0 +1,9 @@
+name: test
+run-name: Setting up the test database
+on: [push]
+jobs:
+  test-output:
+    runs: ubuntu-latest
+    steps:
+      - name: Test output
+        run: echo "Here is a test"
