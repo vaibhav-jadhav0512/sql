@@ -1,1 +1,1 @@
-create database sql12625809; 
+create database sql12625809;
