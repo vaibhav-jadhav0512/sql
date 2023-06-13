@@ -1,2 +1,1 @@
 create database vaibhav;
---test 
