@@ -1,1 +1,1 @@
-create database vaibhav;
+create database sql12625809; 
