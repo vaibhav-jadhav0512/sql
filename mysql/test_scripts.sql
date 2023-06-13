@@ -1,3 +1,3 @@
 UPDATE sql12625809.authors
-SET name='Test'
+SET name='Rick'
 WHERE id=1;
