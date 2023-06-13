@@ -1,5 +1,5 @@
 name: test
-run-name: Setting up the test database
+run-name: Running update queries
 on: [push]
 jobs:
   test-output:
